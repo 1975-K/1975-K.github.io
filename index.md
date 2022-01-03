@@ -14,4 +14,3 @@
 
 [lab6-1](https://1975-k.github.io/lab6/a.html)   [lab6-2](https://1975-k.github.io/lab6/b.html)  [lab6-1](https://1975-k.github.io/lab6/c.html)  
 
-[lab7-1](https://1975-k.github.io/lab7/a.html)  [lab7-2](https://1975-k.github.io/lab7/b.html)  
