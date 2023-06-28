@@ -1,2 +1,2 @@
 # 1975-k.github.io
-<a href="test.html">lab1</a>
+<a href="test1-1.html">lab1</a>
